@@ -1,0 +1,2 @@
+# WizeGo
+API weather
